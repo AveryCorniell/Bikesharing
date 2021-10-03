@@ -23,6 +23,7 @@ Utilizing both a qualitative and quantitative approach, this analysis was perfor
 	- ![BikeUtilization](https://user-images.githubusercontent.com/83401820/135740949-33557f0b-44d4-4709-8a12-3a90ac9557eb.png)
 
 ![Dashboard1](https://user-images.githubusercontent.com/83401820/135740979-09af5e69-f663-48cf-861a-7e7f526a166f.png)
+https://public.tableau.com/app/profile/avery.corniell/viz/Bikesharing_16323202764050/NYCitiBike?publish=yes
 
 ## Summary  
 In determining which areas would be most suitable for the most bikes or highest concentration of bike stations, it appears the areas would be where there is the most tourism and attractions. Also, placing bike stations on the most populated routes people take to and from work would create the highest ridership. 
