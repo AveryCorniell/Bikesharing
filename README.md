@@ -7,19 +7,22 @@ Utilizing both a qualitative and quantitative approach, this analysis was perfor
 
 ## Questions that are answered in this analysis are:  
 - Number of trips recorded in the month of August:  
-	- insert image here  
+	- ![TotalTrips](https://user-images.githubusercontent.com/83401820/135740862-278ce269-87c3-46b6-8af3-298c86138029.png)
 - Peak hours of bike trips during month of August:  
-	- insert image here  
+	- ![August_PeakHours](https://user-images.githubusercontent.com/83401820/135740863-442d98ad-fa75-4a27-821b-a5293989e424.png)  
 - Top starting and ending locations:  
-	- insert both images here  
+	- ![Top_Starting_Locations](https://user-images.githubusercontent.com/83401820/135740932-d3414682-f010-4b4e-9b6f-f90276425711.png)
+	- ![Top_Ending_Locations](https://user-images.githubusercontent.com/83401820/135740933-43878f8c-a5de-4bd1-8819-989122033ba4.png) 
 - Gender breakdown of active riders:  
-	- insert image here  
+	- ![Users_Gender](https://user-images.githubusercontent.com/83401820/135740936-0a451d30-b8a2-4937-9722-8c6ca9a71890.png) 
 - Average trip duration by age:  
-	- insert image here  
+	- ![TripDuration_Age](https://user-images.githubusercontent.com/83401820/135740944-e8ae35e6-2435-4432-ab98-d55cdff12491.png)
 - Bikes with the highest number of riders:  
-	- insert image here  
+	- ![BikeRepairs_Treemap](https://user-images.githubusercontent.com/83401820/135740947-3e0cb3b8-71f8-4dfe-8d37-799ecabe266f.png) 
 - Bike utilization during August:  
-	- insert image here  
+	- ![BikeUtilization](https://user-images.githubusercontent.com/83401820/135740949-33557f0b-44d4-4709-8a12-3a90ac9557eb.png)
+
+![Dashboard1](https://user-images.githubusercontent.com/83401820/135740979-09af5e69-f663-48cf-861a-7e7f526a166f.png)
 
 ## Summary  
 In determining which areas would be most suitable for the most bikes or highest concentration of bike stations, it appears the areas would be where there is the most tourism and attractions. Also, placing bike stations on the most populated routes people take to and from work would create the highest ridership. 
